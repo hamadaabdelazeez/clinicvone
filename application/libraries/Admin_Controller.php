@@ -26,6 +26,7 @@ class Admin_Controller extends MY_Controller{
 		$this->can_access();		
 		$this->site_dir = "ltr";
 		$this->data['direction'] = $this->site_dir;
+		$this->load->library('session');
 	}
 	
 	protected function have_customized_privilage(){
