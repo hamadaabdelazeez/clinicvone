@@ -1,0 +1,19 @@
+body{
+	background:#ebebeb;
+	width:99%;
+	height:100%;
+	/*background: #1a9ab3;*/ /* Old browsers */
+	/*background: -moz-linear-gradient(left, #1a9ab3 0%, #1b91af 100%);*/ /* FF3.6-15 */
+	/*background: -webkit-linear-gradient(left, #1a9ab3 0%,#1b91af 100%);*/ /* Chrome10-25,Safari5.1-6 */
+	/*background: linear-gradient(to right, #1a9ab3 0%,#1b91af 100%);*/ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a9ab3', endColorstr='#1b91af',GradientType=1 ); *//* IE6-9 */
+	margin:0 auto;	
+}
+.app-img{
+	display:block;
+	overflow:hidden;
+	background:url(images/home.jpg) no-repeat;
+	width:480px;
+	height:100vh;
+	margin:0 auto;
+}

@@ -1,0 +1,41 @@
+/*----------------------------------------------- */
+/*
+Add the Arabic Font
+By : Shams IT Team
+*/
+/*----------------------------------------------- */
+@font-face {
+ font-family:'Droid Arabic Naskh';
+ /*src:url('../../fonts/DroidNaskh-Regular.ttf');*/
+ src:local('☺'), url('../../fonts/DroidNaskh-Regular.ttf') format('truetype');
+ font-weight:normal;
+}
+@font-face {
+ font-family:'Droid Arabic Naskh Bold';
+ /*src:url('../../fonts/DroidNaskh-Bold.ttf');*/
+ src:local('☺'), url('../../fonts/DroidNaskh-Bold.ttf') format('truetype');
+ font-weight:normal;
+}
+body,
+div,
+span,
+a,
+p,
+table,tr,th,td,
+.phone-nav-box .phone-logo h1,
+ul.mainNav li a,
+.ls-table .table > thead > tr > th {
+	font-family: 'Droid Arabic Naskh','Armata', sans-serif;
+}
+h1, h2, h3, h4, h5, h6,
+strong,
+.navigation a h1{
+	font-family: 'Droid Arabic Naskh Bold','Armata', sans-serif;
+}
+.phone-nav-box .phone-logo h1{
+	font-size:16px;
+}
+.login-form input.form-control,
+.forgot-pass-box input.form-control{
+	line-height:30px;
+}

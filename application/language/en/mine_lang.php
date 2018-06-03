@@ -1,0 +1,19 @@
+<?php
+$lang["Dashboard"]                                   = "Dashboard";
+$lang["btn_login"]                                     = "Login";
+$lang["All_f"]									         = "All";
+$lang["Select a specialist that you like"]	= "Select a consultant that you like";
+$lang["Select Teleradiologist"] 		           = "Select Consultant";
+$lang["Researchratingreviews"] 		           = "Rating & reviews";
+$lang["Lectureratingreviews"] 		             = "Rating & reviews";
+$lang["Courseratingreviews"] 		               = "Rating & reviews";
+$lang["_Dashboard"]								    = "Dashboard";
+$lang["Go Instructor"] 			 					 = "Become Instructor";
+$lang["Featured image"] 			 				 = "Choose Featured image";
+$lang["No items added yet..."] 			 				 = "No results found ...";
+$lang["Easy questions"] 		  				 		   = "#Easy questions";
+$lang["Medium questions"] 		  				 	   = "#Medium questions";
+$lang["Hard questions"] 		  				 		   = "#Hard questions";
+$lang["notifications"] 		  				 		   = "Notifications";
+$lang["No reults to show"] 		  				 		   = "No results to show";
+$lang["Leture hours"]   		  			= "Lecture hours";
